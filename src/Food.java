@@ -1,5 +1,6 @@
 public class Food 
 {
+    //Add location as well.
     private String name;
     private double price;
 
